@@ -17,15 +17,40 @@
         + 邮箱：kesalin@gmail.com  
         + 微博：[飘飘白云](http://weibo.com/kesalin)  
 
+### 非虚构
+
 * [经济 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BB%8F%E6%B5%8E.md)
-* [社会 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A4%BE%E4%BC%9A.md)
-* [历史 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%8E%86%E5%8F%B2.md)
-* [政治 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%94%BF%E6%B2%BB.md)
+* [商业 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%95%86%E4%B8%9A.md)
 * [哲学 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%93%B2%E5%AD%A6.md)
 * [心理 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%BF%83%E7%90%86.md)
-* [成长 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%88%90%E9%95%BF.md)
+* [政治 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%94%BF%E6%B2%BB.md)
+* [社会 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A4%BE%E4%BC%9A.md)
+* [历史 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%8E%86%E5%8F%B2.md)
 * [科技 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A7%91%E6%8A%80.md)
 * [编程 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BC%96%E7%A8%8B.md)
-* [文化 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%96%87%E5%8C%96.md)
+* [设计 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%AE%BE%E8%AE%A1.md)
+* [成长 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%88%90%E9%95%BF.md)
+
+### 文学
+
 * [文学 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%96%87%E5%AD%A6.md)
+* [文化 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%96%87%E5%8C%96.md)
+* [中国文学 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6.md)
+* [外国文学 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%A4%96%E5%9B%BD%E6%96%87%E5%AD%A6.md)
+* [名著 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%90%8D%E8%91%97.md)
+* [散文 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%95%A3%E6%96%87.md)
+* [杂文 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%9D%82%E6%96%87.md)
+* [诗歌 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%AF%97%E6%AD%8C.md)
+* [童话 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%AB%A5%E8%AF%9D.md)
+* [绘本 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BB%98%E6%9C%AC.md)
+
+### 小说
+
 * [小说 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%B0%8F%E8%AF%B4.md)
+* [悬疑 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%82%AC%E7%96%91.md)
+* [推理 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%82%AC%E7%96%91.md)
+* [武侠 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%AD%A6%E4%BE%A0.md)
+* [漫画 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%BC%AB%E7%94%BB.md)
+* [科幻 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A7%91%E5%B9%BB.md)
+* [言情 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%A8%80%E6%83%85.md)
+* [青春 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E9%9D%92%E6%98%A5.md)
