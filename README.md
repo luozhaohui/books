@@ -43,6 +43,7 @@
 * [诗歌 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%AF%97%E6%AD%8C.md)
 * [童话 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%AB%A5%E8%AF%9D.md)
 * [绘本 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BB%98%E6%9C%AC.md)
+* [漫画 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%BC%AB%E7%94%BB.md)
 
 ### 小说
 
@@ -50,7 +51,6 @@
 * [悬疑 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%82%AC%E7%96%91.md)
 * [推理 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%82%AC%E7%96%91.md)
 * [武侠 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%AD%A6%E4%BE%A0.md)
-* [漫画 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%BC%AB%E7%94%BB.md)
 * [科幻 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A7%91%E5%B9%BB.md)
 * [言情 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%A8%80%E6%83%85.md)
 * [青春 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E9%9D%92%E6%98%A5.md)
