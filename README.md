@@ -4,7 +4,7 @@
 * [推荐书单](https://github.com/luozhaohui/books/blob/master/reading/booklist.md)
 * [心智成长豆列](https://github.com/luozhaohui/books/blob/master/reading/mindset.md)
 
-## 豆瓣 Top 100
+## Top 豆瓣图书
 
 ### 说明
  *  这些页面是由 Python 爬虫根据图书推荐算法抓取豆瓣图书信息自动生成，列出特定主题排名靠前的一百本图书。  
