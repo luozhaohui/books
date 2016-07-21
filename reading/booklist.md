@@ -37,6 +37,7 @@
 * [金字塔原理](http://book.douban.com/subject/1020644/)
 * [非暴力沟通](http://book.douban.com/subject/3533221/)
 * [孩子，把你的手给我](http://book.douban.com/subject/3533221/)
+* [沟通的艺术（插图修订第14版）](https://book.douban.com/subject/26275861/)
 
 ----------
 
@@ -46,6 +47,7 @@
 * [一万小时天才理论](http://book.douban.com/subject/4726323/)
 * [异类](http://book.douban.com/subject/3688489/)
 * [全新思维](http://book.douban.com/subject/1799241/)
+* [看见成长的自己](https://book.douban.com/subject/6510688/)
 
 ----------
 
@@ -271,6 +273,7 @@
   * [水浒传](http://book.douban.com/subject/2701443/)
   * [水浒传金圣叹注评本](http://book.douban.com/subject/26411281/)
   * [大地三部曲](http://book.douban.com/subject/4067609/)
+  * [白鹿原](https://book.douban.com/subject/1085799/)
   * [呼兰河传](http://book.douban.com/subject/1060852/)
   * [寻路中国](http://book.douban.com/subject/5414391/)
   * [中国在梁庄](http://book.douban.com/subject/5350804/)
@@ -295,7 +298,8 @@
   * [天真的人类学家](http://book.douban.com/subject/1129216/)
   * [隐藏的逻辑](http://book.douban.com/subject/3766438/)
   * [枪炮、病菌与钢铁](http://book.douban.com/subject/1813841/)
-
+  * [人类简史](https://book.douban.com/subject/25985021/)
+  
 ----------
 
 ### 公司管理
@@ -307,7 +311,7 @@
   * [从优秀到卓越](http://book.douban.com/subject/1059769/)
   * [卓有成效的管理者](http://book.douban.com/subject/1322025/)
   * [光环效应](http://book.douban.com/subject/2249558/)
-  * [技术领导之路](http://book.douban.com/subject/4187478/)
+  * [权力与领导（第5版）](https://book.douban.com/subject/26288194/)
   * [四步创业法](http://book.douban.com/subject/11516567/)
   * [精益创业](http://book.douban.com/subject/10945606/)
 
@@ -329,6 +333,7 @@
   * [创新者的窘境](http://book.douban.com/subject/4243770/)
   * [启示录：打造用户喜爱的产品](http://book.douban.com/subject/5914587/)
   * [写给大家看的设计书](http://book.douban.com/subject/3323633/)
+  * [用户体验要素](https://book.douban.com/subject/6523997/)
 
 ----------
 
@@ -352,8 +357,9 @@
 ----------
 
 #### 生物
-  * [植物知道生命的答案](http://book.douban.com/subject/25793667/)
   * [自私的基因](http://book.douban.com/subject/1292405/)
+  * [我们为什么生病](https://book.douban.com/subject/1046620/)
+  * [基因组](https://book.douban.com/subject/26281143/)
 
 ----------
 
