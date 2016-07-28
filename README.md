@@ -26,10 +26,13 @@
 * [政治 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%94%BF%E6%B2%BB.md)
 * [社会 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A4%BE%E4%BC%9A.md)
 * [历史 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%8E%86%E5%8F%B2.md)
+* [考古 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%80%83%E5%8F%A4.md)
 * [科技 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%A7%91%E6%8A%80.md)
+* [数学 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%95%B0%E5%AD%A6.md)
 * [编程 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BC%96%E7%A8%8B.md)
 * [设计 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E8%AE%BE%E8%AE%A1.md)
 * [成长 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%88%90%E9%95%BF.md)
+* [宗教 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E5%AE%97%E6%95%99.md)
 
 ### 文学
 
@@ -44,6 +47,7 @@
 * [童话 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%AB%A5%E8%AF%9D.md)
 * [绘本 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BB%98%E6%9C%AC.md)
 * [漫画 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%BC%AB%E7%94%BB.md)
+* [电影 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%94%B5%E5%BD%B1.md)
 
 ### 小说
 
