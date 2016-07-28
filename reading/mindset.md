@@ -11,8 +11,7 @@
 * 或能整合已有知识形成新的见解；  
 * 或能增长见识。  
 
-我写了一个Python爬虫，能自动将该豆列整理为 Markdown 格式，便于在网页上查看。整理之后的页面请访问这里：
-[心智成长](https://github.com/luozhaohui/books/blob/master/reading/mindset.md)。
+我写了一个Python爬虫，能自动将[心智成长豆列](https://www.douban.com/doulist/1133232/)导出为 Markdown 格式放置在这里，便于在一个页面上查看。
 
 该爬虫工具源码在这里：[豆瓣豆列导出脚本](https://github.com/luozhaohui/PythonSnippet/blob/master/exportDoulistAsMarkdownMultiThread.py)
 
