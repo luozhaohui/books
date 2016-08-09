@@ -36,7 +36,7 @@
 #### 沟通表达
 * [金字塔原理](http://book.douban.com/subject/1020644/)
 * [非暴力沟通](http://book.douban.com/subject/3533221/)
-* [孩子，把你的手给我](http://book.douban.com/subject/3533221/)
+* [孩子，把你的手给我](https://book.douban.com/subject/1067049/)
 * [沟通的艺术（插图修订第14版）](https://book.douban.com/subject/26275861/)
 
 ----------
@@ -373,7 +373,7 @@
 * [从出生到3岁](http://book.douban.com/subject/1967845/)
 * [父母效能训练手册](http://book.douban.com/subject/3759379/)
 * [如何说孩子才会听，怎么听孩子才肯说](http://book.douban.com/subject/2275635/)
-* [孩子，把你的手给我](http://book.douban.com/subject/3533221/)
+* [孩子，把你的手给我](https://book.douban.com/subject/1067049/)
 * [非暴力沟通](http://book.douban.com/subject/3533221/)
 
 ---
