@@ -56,6 +56,7 @@
 * [绘本 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%BB%98%E6%9C%AC.md)
 * [漫画 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E6%BC%AB%E7%94%BB.md)
 * [电影 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E7%94%B5%E5%BD%B1.md)
+* [音乐 Top 100](https://github.com/luozhaohui/books/blob/master/douban/%E9%9F%B3%E4%B9%90.md)
 
 ### 小说
 
