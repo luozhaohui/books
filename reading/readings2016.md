@@ -2,6 +2,8 @@
 
 2016年又即将过去了，这一年阅读时间相比往年少了许多，总计只阅读了 42 本书，评价以四星、五星图书为主，主题以历史、编程、育儿为主。其中有几本是重读，如《万历十五年》、《论美国的民主》、《士与中国文化》、《COM本质论》等。
 
+我写了一个 python 脚本来自动生成这个阅读统计小结，源码在[这里](https://github.com/luozhaohui/PythonSnippet/blob/master/doubanReadingAnalizer.py)，你可以对代码稍作修改并利用[在线 python 运行环境](https://www.tutorialspoint.com/execute_python_online.php)生成你自己的年度阅读小结，欢迎试用。
+
 ### 评价统计:
  > 五星图书 14 本，占比 33%  
  > 四星图书 23 本，占比 55%  
