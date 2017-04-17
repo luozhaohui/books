@@ -227,6 +227,7 @@
   * [旧制度与大革命](http://book.douban.com/subject/1032063/)
   * [从独裁到民主](http://article.yeeyan.org/view/99430/298410)（电子版）
   * [狂热分子](http://book.douban.com/subject/3057556/)
+  * [经济人的末日](https://book.douban.com/subject/26378573/)
 
 ----------
 
@@ -334,6 +335,7 @@
   * [启示录：打造用户喜爱的产品](http://book.douban.com/subject/5914587/)
   * [写给大家看的设计书](http://book.douban.com/subject/3323633/)
   * [用户体验要素](https://book.douban.com/subject/6523997/)
+  * [设计心理学](https://book.douban.com/subject/4606471/)
 
 ----------
 
@@ -348,11 +350,14 @@
 #### 思想
   * [失控](http://book.douban.com/subject/5375620/)
   * [思想的未来](http://book.douban.com/subject/1186899/)
+  * [科学革命的结构](https://book.douban.com/subject/20376550/)
 
 ----------
 
 #### 计算机
   * [编码](http://book.douban.com/subject/4822685/)
+  * [世界是数字的](https://book.douban.com/subject/24749903/)
+  * [通灵芯片 : 计算机运作的简单原理](https://book.douban.com/subject/3423021/)
 
 ----------
 
