@@ -188,6 +188,7 @@
   * [经济学原理：微观经济学分册](http://book.douban.com/subject/3719533/)
   * [经济学原理：宏观经济学分册](http://book.douban.com/subject/3719531/)
   * [长尾理论](http://book.douban.com/subject/1919072/)
+  * [经济为什么会崩溃 : 鱼、美元和经济学](https://book.douban.com/subject/6743298/)
 
 ----------
 
@@ -214,13 +215,16 @@
 ----------
 
 #### 制度
-  * [通往奴役之路](http://book.douban.com/subject/1077528/)
+  * [社会主义](https://book.douban.com/subject/3260366/)
+  * [通往奴役之路](http://book.douban.com/subject/1077528/)
   * [自由与繁荣的国度](http://book.douban.com/subject/1043419/)
-  * [历史决定论的贫困](http://book.douban.com/subject/3803268/)
+  * [独裁者手册](http://book.douban.com/subject/25881102/)
   * [论美国的民主](http://book.douban.com/subject/1041385/)
   * [民主的细节](http://book.douban.com/subject/3813669/)
-  * [独裁者手册](http://book.douban.com/subject/25881102/)
-
+  * [历史深处的忧虑](https://book.douban.com/subject/1027191/)
+  * [总统是靠不住的](https://book.douban.com/subject/1056315/)
+  * [我也有一个梦想](https://book.douban.com/subject/1014825/)
+  * [如彗星划过夜空](https://book.douban.com/subject/1762869/)
 ----------
 
 #### 变革
@@ -260,6 +264,7 @@
   * [乡土中国 生育制度 乡土重建](http://book.douban.com/subject/10532835/)
   * [士与中国文化](http://book.douban.com/subject/25732836/)
   * [中国古代文化常识](http://book.douban.com/subject/10571214/)
+  * [中国法律与中国社会](https://book.douban.com/subject/1224279/)
   * [中国人的精神](http://book.douban.com/subject/25732836/)
   * [吾国与吾民](http://book.douban.com/subject/3200831/)
   * [文化苦旅](http://book.douban.com/subject/1050339/)
