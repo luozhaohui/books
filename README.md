@@ -3,7 +3,7 @@
 ## 私人阅读
 * [推荐书单](https://github.com/luozhaohui/books/blob/master/reading/booklist.md)
 * [心智成长豆列](https://github.com/luozhaohui/books/blob/master/reading/mindset.md)
-* [个人阅读年度统计](https://github.com/luozhaohui/books/blob/master/reading/annual_readings.md)
+* [私人阅读年度统计](https://github.com/luozhaohui/books/blob/master/reading/annual_readings.md)
 
 
 ## Top 豆瓣图书

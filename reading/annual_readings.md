@@ -1,4 +1,4 @@
-## 个人阅读年度统计
+## 私人阅读年度统计
 
 * [2017，36本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2017/2017reading.md)
 * [2016，46本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2016/2016reading.md)
