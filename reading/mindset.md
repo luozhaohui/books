@@ -13,7 +13,7 @@
 
 我写了一个Python爬虫，能自动将[心智成长豆列](https://www.douban.com/doulist/1133232/)导出为 Markdown 格式放置在这里，便于在一个页面上查看。
 
-该爬虫工具源码在这里：[豆瓣豆列导出脚本](https://github.com/luozhaohui/python/blob/master/exportDoulistAsMarkdownMultiThread.py)
+该爬虫工具源码在这里：[豆瓣豆列导出脚本](https://github.com/luozhaohui/python/blob/master/exportDoulistAsMarkdown.py)
 
 有需要导出豆列的朋友，可以修改源码中的用户名、密码以及豆列 url 为你想要导出的豆列地址即可，当然前提是你得学会配置 Python 环境。
 
