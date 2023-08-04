@@ -1,5 +1,9 @@
 ## 私人阅读年度统计
 
+* [2022，29本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2022/2022reading.md)
+* [2021，88本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2021/2021reading.md)
+* [2020，45本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2020/2020reading.md)
+* [2019，30本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2019/2019reading.md)
 * [2017，37本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2017/2017reading.md)
 * [2016，46本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2016/2016reading.md)
 * [2015，46本](https://github.com/luozhaohui/python/blob/master/douban_reading_statistics/2015/2015reading.md)
